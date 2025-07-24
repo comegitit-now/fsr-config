@@ -1,7 +1,7 @@
 {
   "plugin_version": "1.0.7",
   "poll_enabled": true,
-  "poll_interval_seconds": 3600,
+  "poll_interval_seconds": 1800,
   "disable_all_pings": false,
   "maintenance_message": "",
   "last_updated": "2025-07-24T11:00:00Z"
