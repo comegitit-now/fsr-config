@@ -1,5 +1,5 @@
 {
-  "plugin_version": "1.0.7",
+  "plugin_version": "1.0.0",
   "poll_enabled": true,
   "poll_interval_seconds": 180,
   "disable_all_pings": false,
